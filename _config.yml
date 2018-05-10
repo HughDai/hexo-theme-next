@@ -553,6 +553,9 @@ flowchart:
   # flowchart: # optional, the source url of flowchart.js
   options: # options used for `drawSVG`
 
+tabs:
+  enable: true
+
 # Assets
 css: css
 js: js
